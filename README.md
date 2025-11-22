@@ -1,69 +1,69 @@
 📦 InventoFlow – Inventory & Stock Management System (PHP + MySQL)
 
-InventoFlow is a powerful and user-friendly Inventory & Stock Management System built using PHP and MySQL. It helps businesses efficiently manage products, track stock levels, handle purchases and sales, and monitor all inventory operations from a single dashboard.
+InventoFlow is a powerful and user-friendly Inventory & Stock Management System built using PHP and MySQL. It enables businesses to efficiently manage products, track stock levels, record purchases and sales, and monitor all inventory operations from a unified dashboard.
 
-Designed for shops, warehouses, rental companies, and any business that needs organized stock control.
+Designed for shops, warehouses, rental companies, wholesalers, and any business that needs organized stock control.
 
 🌟 Features
-Inventory & Product Management
+📁 Inventory & Product Management
 
 Manage products with images, categories, and pricing
 
 Real-time stock updates
 
-Low-stock alerts
+Low-stock alert system
 
-Product listings with search & filters
+Product listings with search & filtering options
 
-Stock In / Stock Out
+📦 Stock In / Stock Out
 
 Add stock (purchase entries)
 
 Issue stock (sales entries)
 
-Automatic update of inventory levels
+Automatic stock level updates
 
-Detailed stock movement history
+Detailed stock movement log
 
-Purchase & Sales Management
+🧾 Purchase & Sales Management
 
-Maintain supplier and customer databases
+Manage supplier and customer databases
 
 Record purchase and sales transactions
 
-Track complete history with dates and amounts
+Track complete transaction history
 
 Generate invoices and summaries
 
-Dashboard & Reports
+📊 Dashboard & Reports
 
 Real-time dashboard overview
 
-Total products, sales, purchases, and alerts
+Key metrics: total products, sales, purchases, alerts
 
-Downloadable or printable report summaries
+Downloadable / printable reports
 
-Daily/Monthly performance insights
+Daily and monthly insights
 
-User Accounts & Security
+🔐 User Accounts & Security
 
-Admin and Staff roles
+Admin and staff roles
 
 Secure login system
 
-Role-based access
+Role-based dashboard access
 
 Activity monitoring
 
-Additional Features
+⚙️ Additional Features
 
 Password-protected admin area
 
 Email notifications
 
-Organized folder structure
+Organized project structure
 
-Clean and responsive interface
+Clean and responsive UI
 
 🛠️ Technologies Used
 
@@ -75,7 +75,7 @@ HTML5, CSS3, JavaScript
 
 Bootstrap / Tailwind CSS
 
-phpMyAdmin (Database Management)
+phpMyAdmin for database management
 
 🎯 Ideal For
 
@@ -83,22 +83,22 @@ Retail shops
 
 Tool & equipment rentals
 
-Wholesale businesses
+Wholesale distributors
 
 Warehouses
 
 Small & medium businesses
 
-Startups needing organized stock control
+Startups needing inventory automation
 
 📌 How It Works
 
-Admin logs in to manage the system
+Admin logs into the system
 
-Products are added with stock details
+Products are added with stock, pricing, and category details
 
-Staff can issue and add stock
+Staff can add or issue stock
 
-Purchases/sales update the inventory automatically
+Purchases and sales automatically update inventory levels
 
-Admin can track all activity through dashboard & reports
+Admin monitors everything through dashboard and reports
