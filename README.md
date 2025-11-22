@@ -1,5 +1,4 @@
-**📦 InventoFlow – Inventory & Stock Management System (PHP + MySQL)
-**
+**📦 InventoFlow – Inventory & Stock Management System (PHP + MySQL)**
 InventoFlow is a powerful and user-friendly Inventory & Stock Management System built using PHP and MySQL. It enables businesses to efficiently manage products, track stock levels, record purchases and sales, and monitor all inventory operations from a unified dashboard.
 
 Designed for shops, warehouses, rental companies, wholesalers, and any business that needs organized stock control.
