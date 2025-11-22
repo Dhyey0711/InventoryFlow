@@ -1,11 +1,11 @@
-📦 InventoFlow – Inventory & Stock Management System (PHP + MySQL)
-
+**📦 InventoFlow – Inventory & Stock Management System (PHP + MySQL)
+**
 InventoFlow is a powerful and user-friendly Inventory & Stock Management System built using PHP and MySQL. It enables businesses to efficiently manage products, track stock levels, record purchases and sales, and monitor all inventory operations from a unified dashboard.
 
 Designed for shops, warehouses, rental companies, wholesalers, and any business that needs organized stock control.
 
-🌟 Features
-📁 Inventory & Product Management
+**🌟 Features
+📁 Inventory & Product Management**
 
 Manage products with images, categories, and pricing
 
@@ -15,7 +15,7 @@ Low-stock alert system
 
 Product listings with search & filtering options
 
-📦 Stock In / Stock Out
+**📦 Stock In / Stock Out**
 
 Add stock (purchase entries)
 
@@ -25,7 +25,7 @@ Automatic stock level updates
 
 Detailed stock movement log
 
-🧾 Purchase & Sales Management
+**🧾 Purchase & Sales Management**
 
 Manage supplier and customer databases
 
@@ -35,7 +35,7 @@ Track complete transaction history
 
 Generate invoices and summaries
 
-📊 Dashboard & Reports
+**📊 Dashboard & Reports**
 
 Real-time dashboard overview
 
@@ -45,8 +45,8 @@ Downloadable / printable reports
 
 Daily and monthly insights
 
-🔐 User Accounts & Security
-
+🔐 User Accounts & Security**
+**
 Admin and staff roles
 
 Secure login system
@@ -55,7 +55,7 @@ Role-based dashboard access
 
 Activity monitoring
 
-⚙️ Additional Features
+**⚙️ Additional Features**
 
 Password-protected admin area
 
@@ -65,7 +65,7 @@ Organized project structure
 
 Clean and responsive UI
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 PHP (Backend)
 
@@ -77,9 +77,9 @@ Bootstrap / Tailwind CSS
 
 phpMyAdmin for database management
 
-🎯 Ideal For
+**🎯 Ideal For**
 
-Retail shops
+**Retail shops**
 
 Tool & equipment rentals
 
@@ -91,7 +91,7 @@ Small & medium businesses
 
 Startups needing inventory automation
 
-📌 How It Works
+**📌 How It Works**
 
 Admin logs into the system
 
